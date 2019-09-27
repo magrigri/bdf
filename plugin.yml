@@ -1,0 +1,8 @@
+main: fr.jq.bdf.Main
+name: BDF
+version: '1.0'
+description: Convert iron ore to iron block
+commands:
+  bdf:
+    description: Convert iron ore to iron block
+    permission: jq.bdf
